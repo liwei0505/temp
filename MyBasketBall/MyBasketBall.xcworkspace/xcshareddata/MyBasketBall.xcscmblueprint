@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E1A9FB9140D2DAF7C7C087CAF9BA9652A31BB162",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : 9223372036854775807,
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : 9223372036854775807,
+    "E1A9FB9140D2DAF7C7C087CAF9BA9652A31BB162" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "243F3A0B-241B-4654-B9BB-2B2762AFD45E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : "MyBasketBall\/ReactiveObjC\/",
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : "MyBasketBall\/ReactiveObjC\/Carthage\/Checkouts\/xcconfigs\/",
+    "E1A9FB9140D2DAF7C7C087CAF9BA9652A31BB162" : "MyBasketBall\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyBasketBall",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MyBasketBall.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ReactiveCocoa\/ReactiveObjC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jspahrsummers\/xcconfigs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E084C86B03F81D63323C9E7510697EA528A758C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhegu\/MyBasketBall.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E1A9FB9140D2DAF7C7C087CAF9BA9652A31BB162"
+    }
+  ]
+}
